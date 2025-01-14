@@ -1,0 +1,1 @@
+This repository contains a simple Python function that demonstrates an uncommon error: a ZeroDivisionError. The accompanying solution file shows how to improve error handling.
